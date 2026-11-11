@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FONDO ROJO OSCURO PARA LA PANTALLA DE PELÍCULAS (el texto blanco se sigue leyendo) -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+        android:angle="270"
+        android:startColor="#8E0E0E"
+        android:centerColor="#5A0606"
+        android:endColor="#2B0202"/>
+
+</shape>
